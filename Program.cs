@@ -20,7 +20,7 @@ void PrintArray(string[] arr)
 }
 
 
-string[] arrayString = {"hello", "2", "world", ":-)"};
-string[] arrayFinish = {"", "", "", ""};
+string[] arrayString = { "hello", "2", "world", ":-)" };
+string[] arrayFinish = { "", "", "", "" };
 FillterOfArray(arrayString, arrayFinish);
 PrintArray(arrayFinish);
